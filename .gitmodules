@@ -1,0 +1,3 @@
+[submodule "OpenG EXT"]
+	path = OpenG EXT
+	url = git@10.68.23.184:/Libraries/LabView/OpenG.git
